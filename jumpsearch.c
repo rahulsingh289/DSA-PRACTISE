@@ -37,3 +37,15 @@ int main() {
 
     return 0;
 }
+
+
+
+
+/* while (end < n && arr[end - 1] < key) {
+    start = end;        // move start to next block
+    end = end + step;   // jump forward by step size
+
+    if (start >= n)
+        return -1;      // key cannot exist
+}.   */
+
