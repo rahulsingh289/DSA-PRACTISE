@@ -59,3 +59,7 @@ int main(){
     cout<<binarySearch(arr , n,10)<<endl;
     return 0;
 } */
+
+
+given an array of integers , we have to find out whether arr[i]+arr[j]==sum or not and sum is provided by user.
+give all three approaches. bigoh n square , big oh n , and another one.
